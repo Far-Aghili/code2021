@@ -1,2 +1,6 @@
-# code2020
-Blockchain Deployment for OLAB and CLAB
+# ASCON for MLS-ABAC
+ASCON Deployment for MLS-ABAC paper
+Authenticated encryption:
+Ascon-128
+Hashing algorithms:
+Ascon-Hash
